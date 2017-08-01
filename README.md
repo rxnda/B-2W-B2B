@@ -2,8 +2,6 @@
 
 an open form commercial nondisclosure agreement published by [RxNDA](https://rxnda.com).
 
-broad, two-way, business-to-business variant
-
 See [github.com/rxnda/rxnda-forms](https://github.com/rxnda/rxnda-forms) for more information.
 
 ## Be Warned!
